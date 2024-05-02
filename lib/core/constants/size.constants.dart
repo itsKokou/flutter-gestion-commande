@@ -1,0 +1,1 @@
+const kokPadding=20.0;
